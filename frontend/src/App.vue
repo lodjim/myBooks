@@ -153,8 +153,8 @@ onMounted(async()=>{
   <div class="flex flex-col justify-start items-center">
     <nav class="flex flex-row justify-between items-center shadow-md w-[100%]">
       
-      <div class="w-[100px] h-[75px] flex justify-center items-center">
-      <h1>Logo</h1>
+      <div class="w-[100px] h-[75px] flex justify-center items-center ">
+        <img src="https://plus.unsplash.com/premium_photo-1677187301535-b46cec7b2cc8?q=80&w=1823&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Logo" class="w-[50px] h-[50px] rounded-full" />
       </div>
       
       <div class="w-[250px] h-[75px] flex justify-evenly items-center">
